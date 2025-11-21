@@ -1,7 +1,7 @@
 questions
 ===
 
-# Could you briefly describe your role and what a typical day looks like in your job?
+# Briefly describe your role and what a typical day looks like in your job?
 ## A1. oskar holm, senior data scientist
 as a senior data scientist, my role is to design intelligent features and generate new knowledge to guide decision making in the organisation. i act as a bridge between the engineering and the business functions. on a typical day i meet with stakeholders to concretize their requirements, translating a pain point of theirs into a question that can be answered by (available) data. i then code in sql/python/bash to access, wrangle, model, analyse that data towards a solution that yields an answer. 
 

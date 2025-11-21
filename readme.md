@@ -21,7 +21,7 @@ the questions are grouped by the following topics:
 
 ## question listing:
 ```
-career_pathways: "Could each of you briefly describe your role and what a typical day looks like in your job?"
+career_pathways: "Briefly describe your role and what a typical day looks like in your job?"
 career_pathways: "How did you first get into data science or analytics, and what skills helped you most early on?"
 career_pathways: "How do the roles of data analyst, data scientist, and data engineer differ in your organizations?"
 career_pathways: "What are some common misconceptions that students or graduates have about working in data?"
