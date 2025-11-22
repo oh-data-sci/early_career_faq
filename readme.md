@@ -2,7 +2,7 @@ early career faq
 ===
 
 # introduction
-the [brighton data forum](https://www.meetup.com/brighton-data-forum/) especially welcomes participation from students, recent graduates, and enthusiasts of the data professions. we offer various events and activities in order to guide and support data professionals early in their careers.
+the [brighton data forum](https://www.meetup.com/brighton-data-forum/) is a community of data professionals covering especially welcomes participation from students, recent graduates, and enthusiasts of the data professions. we offer various events and activities in order to guide and support data professionals early in their careers.
 
 this repository is intended to help guide beginners in the field. 
 the `faq/` folder contains collected questions from beginners and answers from more experienced data professionals. 
