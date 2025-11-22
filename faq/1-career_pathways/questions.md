@@ -11,7 +11,7 @@ myself, i came from physics. i did numerical astrophysics and cosmology at uni. 
 
 # How do the roles of data analyst, data scientist, and data engineer differ in your organizations?
 ## A1. oskar holm, senior data scientist
-	- as a general rule, the terms vary so much between organisations that it is really hard to say. in some smaller companies, i would use the term 'data professional' because you will find yourself doing a little bit of everything. having said that, here is a brief summary:
+as a general rule, the terms vary so much between organisations that it is really hard to say. in some smaller companies, i would use the term 'data professional' because you will find yourself doing a little bit of everything. having said that, here is a brief summary:
 	- data engineer: a builder. builds pipelines between data systems and models data in databases. 
 	- data analyst: a business liaison. delivers analytical reports (in a business intelligence suite, or reporting engine) that inform and assist decision making for business stakeholders. (by *analytics* i mean a combination of filter/group by/aggregate operations).
 	- data scientist: a business liaison. trains statistical models and methods of scientific computing to design intelligent features and answer research questions.
@@ -20,13 +20,13 @@ myself, i came from physics. i did numerical astrophysics and cosmology at uni. 
 
 # What are some common misconceptions that students or graduates have about working in data?
 ## A1. oskar holm, senior data scientist
-	- *the sexiest job title of the 21st century*. it was fun while it lasted, but that time is over.
-	- that you will be working on local copies of the data. that's rare in an organisation, for many good reasons.
-	- that brilliance and skill will get you promoted. only strategic impact. that may or may not require brilliance and skill.
+- *the sexiest job title of the 21st century*. it was fun while it lasted, but that time is over.
+- that you will be working on local copies of the data. that's rare in an organisation, for many good reasons.
+- that brilliance and skill will get you promoted. only strategic impact. that may or may not require brilliance and skill.
 
 # Looking ahead, how do you see the data field evolving over the next few years, particularly with AI and automation?
 ## A1. oskar holm, senior data scientist
-	- over time, ai will make product managers of all of us. instead of working at the fine grain detail of our chosen fields, we will be overseeing ai models doing that. instead of figuring out how to solve each problem, we will be evaluating ai-generated solutions for their correctness and fitness for purpose. instead of obsession over detail, and mathematical skill, it will  large picture systemic understanding and empathy for the models that will determine your success.
+- over time, ai will make product managers of all of us. instead of working at the fine grain detail of our chosen fields, we will be overseeing ai models doing that. instead of figuring out how to solve each problem, we will be evaluating ai-generated solutions for their correctness and fitness for purpose. instead of obsession over detail, and mathematical skill, it will  large picture systemic understanding and empathy for the models that will determine your success.
 
 # Are there particular industries (such as healthcare, finance, or sustainability) where you see the most growth in data-related roles?
 ## A1. oskar holm, senior data scientist
